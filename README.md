@@ -8,6 +8,7 @@ The project uses MobileNetV3, a lightweight convolutional neural network, to ext
 
 ## Directory Structure
 
+```sh
 dataset/
 |
 ├──train
@@ -27,7 +28,7 @@ dataset/
     └── forged/
     ├── forged3.jpg
     └── ...
-
+```
 
 ## Requirements
 
